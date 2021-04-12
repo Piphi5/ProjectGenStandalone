@@ -1,0 +1,39 @@
+{
+  "counts per shaft revolution": 21934.08,
+  "encoder type": "Built-In",
+  "encoding": false,
+  "gyro": "NavX",
+  "gyro ctor": "SerialPort.kUSB",
+  "motor controllers": [
+  "TalonFX",
+  "TalonFX"
+  ],
+  "number of samples per average": 1,
+  "primary encoder inverted": false,
+  "primary encoder ports": [
+  0,
+  1
+  ],
+  "primary motor ports": [
+  1,
+  2
+  ],
+  "primary motors inverted": [
+  false,
+  false
+  ],
+  "secondary encoder inverted": false,
+  "secondary encoder ports": [
+  2,
+  3
+  ],
+  "secondary motor ports": [
+  3,
+  4
+  ],
+  "secondary motors inverted": [
+  false,
+  false
+  ],
+  "velocity measurement period": 100
+  }
